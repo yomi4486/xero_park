@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/yomi4486/xero_park_front.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/yomi4486/xero_park_backend.git
